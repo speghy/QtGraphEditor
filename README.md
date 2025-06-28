@@ -19,7 +19,7 @@
 
 Разделение на подграфы
 
-<img src="screenshots/Split.jpg" alt="Разделение на подграфы" >
+<img src="screenshots/Split.png" alt="Разделение на подграфы" >
 
 Типы вершин
 
@@ -27,4 +27,4 @@
 
 Типы Связей
 
-<img src="screenshots/Edge.jpg" alt="Типы Связей" >
+<img src="screenshots/edge.jpg" alt="Типы Связей" >
