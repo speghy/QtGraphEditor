@@ -11,20 +11,20 @@
 ## Примеры графов
 Неразбитый полносвязный граф
 
-[Большой полносвязный граф](screenshots/RealGraph.jpg)
+<img src="screenshots/RealGraph.jpg" alt="Неразбитый полносвязный граф" >
 
 Разбитый граф готовый для рассчета характеристик подграфов
 
-[Большой полносвязный разбитый граф](screenshots/GraphForPathMatrix.jpg)
+<img src="screenshots/GraphForPathMatrix.jpg" alt="Большой полносвязный разбитый граф" >
 
 Разделение на подграфы
 
-[Разделение на подграфы](screenshots/Split.jpg)
+<img src="screenshots/Split.jpg" alt="Разделение на подграфы" >
 
 Типы вершин
 
-[Типы вершин](screenshots/Vertex.jpg)
+<img src="screenshots/Vertex.jpg" alt="Типы вершин" >
 
 Типы Связей
 
-[Типы Связей](screenshots/Edge.jpg)
+<img src="screenshots/Edge.jpg" alt="Типы Связей" >
