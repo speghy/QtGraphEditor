@@ -1,4 +1,4 @@
-# ** QtGraphEditor**
+# QtGraphEditor
 Это рассчетная система для построения графов с разнотипными видами вершин и связей, возможностью разбиения графов 
 на подграфы методом пропорционального разделения, рассчетом матриц путей алгоритмом дейкстры для подграфов, 
 сбором характеристик подграфа.
@@ -11,20 +11,20 @@
 ## Примеры графов
 Неразбитый полносвязный граф
 
-[Большой полносвязный граф](https://github.com/speghy/QtGraphEditor/tree/main/screenshots/RealGraph.jpg)
+[Большой полносвязный граф](screenshots/RealGraph.jpg)
 
 Разбитый граф готовый для рассчета характеристик подграфов
 
-[Большой полносвязный разбитый граф](https://github.com/speghy/QtGraphEditor/tree/main/screenshots/GraphForPathMatrix.jpg)
+[Большой полносвязный разбитый граф](screenshots/GraphForPathMatrix.jpg)
 
 Разделение на подграфы
 
-[Разделение на подграфы](https://github.com/speghy/QtGraphEditor/tree/main/screenshots/Split.jpg)
+[Разделение на подграфы](screenshots/Split.jpg)
 
 Типы вершин
 
-[Типы вершин](https://github.com/speghy/QtGraphEditor/tree/main/screenshots/Vertex.jpg)
+[Типы вершин](screenshots/Vertex.jpg)
 
 Типы Связей
 
-[Типы Связей](https://github.com/speghy/QtGraphEditor/tree/main/screenshots/Edge.jpg)
+[Типы Связей](screenshots/Edge.jpg)
